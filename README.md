@@ -21,8 +21,8 @@ Este proyecto corresponde a la implementación de un servicio REST en Java usand
 
 ## 1. Clonar repositorio
 
-git clone https://github.com/TU-USUARIO/TU-REPO.git
-cd TU-REPO
+git clone https://github.com/jeiner21/pruebaTecnica
+cd 
 
 
 ## 2. Configurar base de datos MySQL
